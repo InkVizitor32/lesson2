@@ -66,3 +66,8 @@ Content Cell | Content Cell
 ```
 например:
 <a style="color:#FF1800"> Тескттттттттт</a>
+
+<w style="color:#04FF00"> ниже ссылка для нахождения кода цвета
+```
+ https://colorscheme.ru/
+```
